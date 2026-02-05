@@ -3,8 +3,6 @@
 http://8.242.189.218:9000/play/a097/index.m3u8
 #EXTINF:-1 group-title="-",AXN HD
 http://8.242.189.218:9000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",Adult Swim
-http://8.242.189.218:9000/play/a085/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet HD
 http://8.242.189.218:9000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="-",BETHEL TV
